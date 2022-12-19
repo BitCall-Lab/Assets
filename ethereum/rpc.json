@@ -1,0 +1,16 @@
+[{
+	"name": "FlashBot",
+	"rpc": "https://rpc.flashbots.net"
+}, {
+	"name": "Pokt",
+	"rpc": "https://eth-rpc.gateway.pokt.network"
+}, {
+	"name": "Blastapi",
+	"rpc": "https://eth-mainnet.public.blastapi.io"
+}, {
+	"name": "Mycrypt",
+	"rpc": "https://api.mycryptoapi.com/eth"
+}, {
+	"name": "Ankr",
+	"rpc": "https://rpc.ankr.com/eth"
+}]

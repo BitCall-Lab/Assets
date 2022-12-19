@@ -1,0 +1,29 @@
+{
+    "id":"0x",
+    "name": "BNBChain",
+    "symbol": "BNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "explorer": "https://binance.org/en/smartChain",
+    "website": "https://bscscan.com/",
+    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bnb-chain"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BNBChain"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/QRTQvfhADQ"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bnbchain"
+        }
+    ]
+}

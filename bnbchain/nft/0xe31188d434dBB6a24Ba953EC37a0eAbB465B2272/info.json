@@ -1,0 +1,21 @@
+{
+    "id":"0xe31188d434dBB6a24Ba953EC37a0eAbB465B2272",
+    "name": "Lunicorns",
+    "symbol": "LUNICORNS",
+    "type": "ERC721",
+    "decimals": 1,
+    "status": "active",
+    "explorer": "https://etherscan.io/address/0xe31188d434dbb6a24ba953ec37a0eabb465b2272",
+    "website": "https://www.luni.world/",
+    "description": "All Lunicorns are frens, but some are cooler than others. That’s why we’ve established a trait rarity system to tell which are likely destined for greatness. There are 120+ total traits in the club and these have been categorized into a tier based system. Traits are ranked from ‘common’ all the way through to ‘legendary’ and each rank has a corresponding % chance of being minted.",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ladyuniofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/LadyUni_Official"
+        }
+    ]
+}
